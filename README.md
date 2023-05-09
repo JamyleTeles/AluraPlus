@@ -10,7 +10,7 @@
 
 <h2 id="about">Sobre o projeto</h2>
 Este projeto foi feito para que eu pudesse relembrar tags e conceitos de HTML e CSS, para isso fiz um curso na Alura que por sua vez disponibilizou um template no Figma para que pudesse ser replicado.
-  Se você quer ver como ficou o projeto, clique aqui -> 
+  Se você quer ver como ficou o projeto, clique aqui -> https://jamyleteles.github.io/AluraPlus/
 <br>
 
 <h2 id="dif">Dificuldades/Conquistas</h2>
